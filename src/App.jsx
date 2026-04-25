@@ -6,7 +6,7 @@ function App() {
       <header className="header">
         <h1>Xin Luo</h1>
         <p>Ph.D. Candidate in Mathematics</p>
-        <p>School of Mathematical Sciences, Zhejiang University</p>
+        {/*<p>School of Mathematical Sciences, Zhejiang University</p>*/}
       </header>
 
       <nav className="nav">
@@ -30,8 +30,7 @@ function App() {
         <section id="research" className="section">
           <h2>Research</h2>
           <p>
-            I am interested in the conformal deformation complex on locally
-            conformally flat manifolds, Hodge-type decompositions, regular
+            I am interested in the Hodge-type decompositions, elliptic
             boundary value problems, and limiting Sobolev inequalities.
           </p>
         </section>
@@ -41,7 +40,7 @@ function App() {
           <ol>
             <li>
               S. Ning and X. Luo, Limiting Sobolev Inequalities for
-              k-Cauchy-Fueter Complex.
+              k-Cauchy-Fueter Complex (Accepted).
             </li>
           </ol>
         </section>
